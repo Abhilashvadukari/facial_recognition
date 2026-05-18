@@ -2,7 +2,8 @@
 # Facial Expression Recognition
 
 ## Description
-This project detects human facial expressions in real-time using AI and computer vision techniques.
+Facial Expression Recognition is an AI-based computer vision project that detects and identifies human emotions from facial expressions in real time using a webcam. The system analyzes facial features and predicts emotions such as happy, sad, angry, surprised, or neutral using deep learning techniques. This project helps in understanding concepts like image processing, emotion classification, computer vision, and artificial intelligence.
+
 
 ## Features
 - Real-time webcam detection
